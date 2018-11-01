@@ -1,2 +1,4 @@
 # git_tutorial
-Learn with git
+
+Hello,
+This is my first github typed.
